@@ -1,0 +1,12 @@
+body {background-color: rgb(255, 255, 255);}
+
+@media screen and (min-width: 600px) { 
+   .part1 {color: rgb(33, 132, 150)}
+   .part2 {color: rgb(100, 32, 163);}
+   .part4 {color: rgb(255, 255, 255);}
+   .part3 {color: brown;}
+}
+@media screen and (max-width:600px) {
+    body {background-color: rgb(0, 0, 0);}
+    .part4 {color: rgb(255, 255, 255);}
+}
