@@ -1,1 +1,0 @@
-# ativ2_tri2_2C_FelipePalmieri
